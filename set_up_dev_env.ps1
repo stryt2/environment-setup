@@ -6,6 +6,9 @@ choco install -y tortoisegit
 choco install -y notepadplusplus
 choco install -y vscode
 
+# Development
+choco install -y terraform
+
 # Operation
 choco install -y lens
 
