@@ -8,6 +8,8 @@ choco install -y vscode
 
 # Development
 choco install -y terraform
+choco install -y winscp
+choco install -y putty.install
 
 # Operation
 choco install -y lens
